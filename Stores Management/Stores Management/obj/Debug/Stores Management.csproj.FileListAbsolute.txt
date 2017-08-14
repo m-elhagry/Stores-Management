@@ -1,0 +1,9 @@
+E:\My Program\Stores Management\Stores Management\Stores Management\bin\Debug\Stores Management.exe.config
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores Management.csprojResolveAssemblyReference.cache
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores_Management.Properties.Resources.resources
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores Management.csproj.GenerateResource.Cache
+E:\My Program\Stores Management\Stores Management\Stores Management\bin\Debug\Stores Management.exe
+E:\My Program\Stores Management\Stores Management\Stores Management\bin\Debug\Stores Management.pdb
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores Management.exe
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores Management.pdb
+E:\My Program\Stores Management\Stores Management\Stores Management\obj\Debug\Stores_Management.PL.Choose_Store.resources
